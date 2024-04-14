@@ -4,8 +4,8 @@ package clashroyale.core;
  * Represents an exception indicating the selection of a wrong letter in Clash Royale.
  * This exception is thrown when a player chooses a letter that is not within the given range.
  *
- * <p>Author: Gohar Martirosyan</p>
- * <p>Version: 1.0</p>
+ * @author Gohar Martirosyan
+ * @version 1.0
  */
 public class WrongLetter extends Exception {
     /**
