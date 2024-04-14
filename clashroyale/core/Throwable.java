@@ -2,8 +2,8 @@ package clashroyale.core;
 
 /**
  * Represents a throwable interface for clashRoyale.core.Fireball and clashRoyale.core.Bow cards in Clash Royale.
- * <p>Author: Gohar Martirosyan</p>
- * <p>Version: 1.0</p>
+ * @author Gohar Martirosyan
+ * @version 1.0
  */
 public interface Throwable {
      /**
