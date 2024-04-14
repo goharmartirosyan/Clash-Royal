@@ -8,8 +8,8 @@ package clashroyale.core;
  * It provides static methods for moving cards within the game board.
  * </p>
  *
- * <p>Author: Gohar Martirosyan</p>
- * <p>Version: 1.0</p>
+ * @author Gohar Martirosyan
+ * @version: 1.0
  */
 public class Move {
     private ClashRoyale game;
