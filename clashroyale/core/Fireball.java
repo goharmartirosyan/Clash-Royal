@@ -2,8 +2,8 @@ package clashroyale.core;
 
 /**
  * Represents a clashRoyale.core.Fireball class for moving cards in a Clash Royale game.
- * <p>Author: Gohar Martirosyan</p>
- * <p>Version: 1.0</p>
+ * @author Gohar Martirosyan
+ * @version 1.0
  */public class Fireball extends Card implements Throwable {
     /**
      * Constructs a new clashRoyale.core.Bow card with the specified color.
