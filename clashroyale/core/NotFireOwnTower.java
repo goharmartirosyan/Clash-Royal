@@ -4,8 +4,8 @@ package clashroyale.core;
  * Represents an exception indicating an attempt to fire one's own tower in Clash Royale.
  * This exception is thrown when a player tries to fire their own tower, which is not allowed.
  *
- * <p>Author: Gohar Martirosyan</p>
- * <p>Version: 1.0</p>
+ * @author Gohar Martirosyan
+ * @version 1.0
  */
 public class NotFireOwnTower extends Exception{
     /**
