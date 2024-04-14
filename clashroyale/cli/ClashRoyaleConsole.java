@@ -8,8 +8,8 @@ import java.util.Scanner;
  * Represents a console interface for playing Clash Royale game.
  * This class allows players to interact with the game through the console.
  *
- * <p>Author: Gohar Martirosyan</p>
- * <p>Version: 1.0</p>
+ * @author Gohar Martirosyan
+ * @version 1.0
  */
 
 public class ClashRoyaleConsole {
