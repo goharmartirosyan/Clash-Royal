@@ -1,5 +1,5 @@
 # Clash Royale Game
-This is a simple implementation of the Clash Royale game in Java. Clash Royale is a popular mobile game developed by Supercell.
+This is a simple implementation of the Clash Royale game in Java. 
 
 ## Authros
 Gohar Martirosyan, Edgar Kirakosyan, Ani Nazaryan 
